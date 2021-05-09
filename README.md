@@ -1,6 +1,6 @@
 # workshops
 
-Hello MSTS memebers and McGill community!
+Hello MSTS members and McGill community!
 
 We have created this repository in order to share the workbooks that have been covered in the workshops over the course of the year.
 These workbooks will most often take the form of a jupyter notebook. If you have not already, make sure to download Anaconda in order to access
